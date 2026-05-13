@@ -1,4 +1,4 @@
-
+Enhance The Unarchiver for macOS with updated Tool for The Unarchiver for macOS - duplicate-finder and clipboard-manager, the #1 tool. Includes duplicate-finder and
 
 
 
